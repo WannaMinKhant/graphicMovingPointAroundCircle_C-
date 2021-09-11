@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1629774032 source:e:\c++\movingpoint\main.cpp
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	<graphics.h>
+	<time.h>
+	<dos.h>
+
